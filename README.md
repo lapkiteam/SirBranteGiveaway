@@ -14,3 +14,7 @@ tags:
 Забрать игру можно в [Steam](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/). Раздача доступна до 23 июля.
 
 <!-- Представитель коммерческой ИФни. Говорят, хороший способ въехать в ИФню. -->
+
+## Послесловие
+
+![PropsUpRockWithKey](https://lapkiteam.github.io/SirBranteGiveaway/PropsUpRockWithKey.webp)
